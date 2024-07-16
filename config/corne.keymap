@@ -53,9 +53,9 @@
 
             display-name = "Raise";
             bindings = <
-&none  &none  &none             &none         &none    &none     &kp DOLLAR       &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp PLUS      &kp BSPC
-&none  &none  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp TAB  &none     &kp PERCENT      &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp MINUS     &to 3
-&none  &none  &none             &none         &none    &none     &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_EQUAL  &kp KP_ENTER
+&none  &none  &none             &none         &none    &none     &kp DOLLAR       &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp PLUS   &kp BSPC
+&none  &none  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp TAB  &none     &kp PERCENT      &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp MINUS  &to 3
+&none  &none  &none             &none         &none    &none     &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp EQUAL  &kp KP_ENTER
                                 &trans        &trans   &trans    &trans           &trans           &trans
             >;
         };
